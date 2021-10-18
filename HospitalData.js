@@ -52,7 +52,7 @@
     {
       "id": 106,
       "name": "Pediatric Liver Transplant",
-      "price": 165  50,
+      "price": 16650,
       "bannerImg": "https://i.ibb.co/8DffXmC/liver-Banner-Ped.jpg",
       "image": "https://i.ibb.co/JBmGbHZ/liverPed.jpg",
       "description": "The AngelHope Pediatric Liver Transplant Program is one of the largest, most well-established programs of its kind in the world.",
